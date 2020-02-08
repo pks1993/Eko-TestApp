@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-Eko-Test/Pods-Eko-Test-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/BaseAPI/BaseAPI.framework
+${BUILT_PRODUCTS_DIR}/GithubAPI/GithubAPI.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework

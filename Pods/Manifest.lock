@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (4.9.1)
+  - BaseAPI (0.1.7)
+  - GithubAPI (0.0.6):
+    - BaseAPI
+  - Kingfisher (5.13.0):
+    - Kingfisher/Core (= 5.13.0)
+  - Kingfisher/Core (5.13.0)
+  - Realm (4.3.2):
+    - Realm/Headers (= 4.3.2)
+  - Realm/Headers (4.3.2)
+  - RealmSwift (4.3.2):
+    - Realm (= 4.3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - GithubAPI
+  - Kingfisher
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BaseAPI
+    - GithubAPI
+    - Kingfisher
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  BaseAPI: 78f88151221ac5d2dcc2dda69cf3aab6773fd8eb
+  GithubAPI: bc5bfd90489f5138a8d1e00003b18abe31579eb0
+  Kingfisher: 0d334cada987fcddbe9b5cec516406e1ee9d4748
+  Realm: 5e92902e2875dff4bb0fd02f67bb737c3d5db2bc
+  RealmSwift: 9a360fc7bae04fc2e308a34fbd899d5faa2d6b22
+
+PODFILE CHECKSUM: 83241f09946d652ae828a2f61c02622ef47d5508
+
+COCOAPODS: 1.8.3
